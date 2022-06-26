@@ -67,6 +67,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
   
+  
+  ![Alt Text](Tiger_Segementation_Example.gif)
+  
 ### Prerequisites
   <div align="left">  
 
