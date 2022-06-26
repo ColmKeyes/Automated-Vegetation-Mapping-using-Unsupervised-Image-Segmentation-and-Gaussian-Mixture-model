@@ -41,10 +41,17 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-  
+<div>
+<div align="left">  
+CNN for unsupervised image segmentation. For unsupervised methods, a series of learning criteria must be set. This model optimises predictions through backpropegation and is based on the three following criteria: <br />
+  <br />
+
+  (a) Pixels of similar features are desired to be assigned the same label.<br />
+  (b) Spatially continuous pixels are desired to be assigned the same label.<br />
+  (c) The number of unique cluster labels is desired to be large.<br />
 
 ### Prerequisites
-  <div align="left">  
+
 
     
 * [pytorch](https://pytorch.org/)
