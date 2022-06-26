@@ -83,7 +83,7 @@
   
 ### Installation
 
-![](Tiger_Segementation_Example.gif)
+![](Tiger_Segmentation_Example.gif)
   
   1.Get started with Pytorch <br />
 `https://pytorch.org/get-started/locally/` <br />
