@@ -35,39 +35,13 @@
   </a>
 
 
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
+  ![](Tiger_Segmentation_Example.gif)
 
 
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
   
-  ![](Tiger_Segmentation_Example.gif)
 
 ### Prerequisites
   <div align="left">  
@@ -93,64 +67,50 @@
 `git clone https://github.com/ColmKeyes/Automated-Vegetation-Mapping-using-Unsupervised-Image-Segmentation-and-Gaussian-Mixture-model.git` <br />
  
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-This script can be initiated from Terminal 
+This script can be initiated from Terminal using
 
 `python UISB.py --minLabels 10 --compactness 0.1 --lr 0.1 --nConv 2 --input images/108004.jpg`
 
 Or by running the script directly in python using and changing the parameters under the Inits section.
 
-
-
-
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
 <!-- Future Work -->
 ## Future Work
 
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
+- [ ] Consistent Seed
+- [ ] consistent Colourmap usage
+- [ ] move preprocessing to within script
+- [ ] Loss function
+    - [ ] Investigate other torch loss functions
+    - [ ] Create custom loss function for given problem
+- [ ] Validation
+    - [ ] Implement GT validation in script
+    - [ ] Automate Validation
+- [ ] Metrics
+    - [ ] Add Entropy evaluation to script
+    - [ ] Add chi evaluation to script
+  
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+[Colm Keyes](https://www.linkedin.com/in/colm-keyes-4960a5132/) - keyesco@tcd.ie
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
+  
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
-
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+Acknowledgments go out to the original creator of this network, [Asako Kanezak](https://github.com/kanezaki), AIST, Tokyo,
+who's informative paper can be found here: https://ieeexplore.ieee.org/document/8462533
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
