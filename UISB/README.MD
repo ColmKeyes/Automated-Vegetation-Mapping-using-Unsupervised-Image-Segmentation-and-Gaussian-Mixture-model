@@ -68,20 +68,23 @@
 ## About The Project
   
   
-  ![Alt Text](Tiger_Segementation_Example.gif)
-  
+
 ### Prerequisites
   <div align="left">  
 
     
 * [pytorch](https://pytorch.org/)
-    
+  
+
+  
 * [CUDA](https://developer.nvidia.com/cuda-toolkit)
 
 <div>
   
 ### Installation
 
+![](Tiger_Segementation_Example.gif)
+  
   1.Get started with Pytorch <br />
 `https://pytorch.org/get-started/locally/` <br />
 `https://varhowto.com/install-pytorch-cuda-10-0/`  <br />
