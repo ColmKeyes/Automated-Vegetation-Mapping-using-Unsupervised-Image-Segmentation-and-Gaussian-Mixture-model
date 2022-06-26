@@ -17,32 +17,22 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
 
 
 
 <!-- PROJECT LOGO -->
+
+  <h3 align="center">Unsupervised Image Segmentation by Backpropegation</h3>
+
 <br />
+
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://www.wur.nl/en/research-results/chair-groups/environmental-sciences/laboratory-of-geo-information-science-and-remote-sensing.htm">
+    <img src="Logos/WUR.png" alt="WUR" width="200" height="45">
   </a>
-
-  <h3 align="center">Best-README-Template</h3>
-
-  <p align="center">
-    An awesome README template to jumpstart your projects!
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
-  </p>
-</div>
+   <a href="https://www.ecogoggle.nl/">
+    <img src="Logos/Ecogoggle.png" alt="Ecogoggle" width="200" height="60">
+  </a>
 
 
 
@@ -76,46 +66,26 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+  
+### Prerequisites
+  <div align="left">  
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-### Built With
-
-Major frameworks/libraries used in this project:
-
+    
 * [pytorch](https://pytorch.org/)
+    
 * [CUDA](https://developer.nvidia.com/cuda-toolkit)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
+<div>
+  
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
-1.Clone the repo
-`git clone https://github.com/ColmKeyes/Automated-Vegetation-Mapping-using-Unsupervised-Image-Segmentation-and-Gaussian-Mixture-model.git`
-2. Get started with Pytorch
-`https://pytorch.org/get-started/locally/`
-`https://varhowto.com/install-pytorch-cuda-10-0/` 
+  1.Get started with Pytorch <br />
+`https://pytorch.org/get-started/locally/` <br />
+`https://varhowto.com/install-pytorch-cuda-10-0/`  <br />
+  
+  2.Clone the repo <br />
+`git clone https://github.com/ColmKeyes/Automated-Vegetation-Mapping-using-Unsupervised-Image-Segmentation-and-Gaussian-Mixture-model.git` <br />
+ 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
