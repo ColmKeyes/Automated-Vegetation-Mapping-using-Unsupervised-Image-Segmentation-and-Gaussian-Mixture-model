@@ -67,7 +67,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
   
-  
+  ![](Tiger_Segmentation_Example.gif)
 
 ### Prerequisites
   <div align="left">  
@@ -83,7 +83,7 @@
   
 ### Installation
 
-![](Tiger_Segmentation_Example.gif)
+
   
   1.Get started with Pytorch <br />
 `https://pytorch.org/get-started/locally/` <br />
