@@ -13,12 +13,12 @@
   </a>
 
 
-  ![](output-image minlabels 25 compactness 32 LR 0.1 nConv 4 nIter 9 time-1655965541.4695218.tif)
-
-
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+   <a href="">
+    <img src="output_sample.png" alt="" width="400" height="360">
+  </a>
+
 <div>
 <div align="left"> 
 Manually identifying and mapping plant species distributions is very time-consuming and is consequently expensive task. Besides, to be able to map changes in vegetation, the identification needs to be repeated in time. Automated detection of plant species using remote sensing data can facilitate the process.
