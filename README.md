@@ -21,7 +21,7 @@
 
 <div>
 <div align="left"> 
-Manually identifying and mapping plant species distributions is very time-consuming and is consequently expensive task. Besides, to be able to map changes in vegetation, the identification needs to be repeated in time. Automated detection of plant species using remote sensing data can facilitate the process.
+Manually identifying and mapping plant species distributions is time-consuming and consequently expensive task. Besides, to be able to map changes in vegetation, the identification needs to be repeated in time. Automated detection of plant species using remote sensing data can facilitate the process.
 Here, we present a method of comparison between unsupervised machine learning and deep learning clustering techniques. 
 </div align="left">  
 <br />
