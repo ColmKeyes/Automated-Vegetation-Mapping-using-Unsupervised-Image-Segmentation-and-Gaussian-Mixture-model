@@ -81,9 +81,26 @@ CNN for unsupervised image segmentation. For unsupervised methods, a series of l
 
 This script can be initiated from Terminal using
 
+Or by running the script directly in python using and changing the parameters under the Inits section.
+
+UISB is run using the following command:
+```python UISB.py [--nChannel] [--maxIter] [--minLabels] [--lr] [-nConv] [--num_superpixels] [--visualize] [--compactness] [--input]```
+
+for example, 
+
 `python UISB.py --minLabels 10 --compactness 0.1 --lr 0.1 --nConv 2 --input images/108004.jpg`
 
-Or by running the script directly in python using and changing the parameters under the Inits section.
+The meaning of each argument is detailed below:
+* ``-N``, ``--nChannel``: This is the number of filters that we would like the network to learn. 
+* ``-T``, ``--maxIter``: Max iterations before stopping.
+* ``-minL``, ``--minLabels``: The number of classes that we would like to set for the problem.
+* ``-LR``, ``--lr``: Learning Rate.
+* ``-M``, ``--nConv``: Number of convolutional blocks to add to the network. 
+* ``-K``, ``--num_superpixels ``: Number of superpixels to be placed in the image.
+* ``--visualize``: int 1 or 0, to enable visualisation.
+* ``-C``, ``--compactness``: Measure of the strength of compaction. Compaction squeezes pixels into more optimal circular structures.
+*  ``--input``: Input image to be processed.
+
 
 <!-- Future Work -->
 ## Future Work
