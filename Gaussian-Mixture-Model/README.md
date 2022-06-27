@@ -13,44 +13,14 @@
   </a>
 
 
-  ![](Tiger_Segmentation_Example.gif)
-
-
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <div>
 <div align="left">  
-CNN for unsupervised image segmentation. For unsupervised methods, a series of learning criteria must be set. This model optimises predictions through backpropegation and is based on the three following criteria: <br />
+ <br />
   <br />
 
-  (a) Pixels of similar features are desired to be assigned the same label.<br />
-  (b) Spatially continuous pixels are desired to be assigned the same label.<br />
-  (c) The number of unique cluster labels is desired to be large.<br />
-
-### Prerequisites
-
-
-    
-* [pytorch](https://pytorch.org/)
-  
-
-  
-* [CUDA](https://developer.nvidia.com/cuda-toolkit)
-
-<div>
-  
-### Installation
-
-
-  
-  1.Get started with Pytorch <br />
-`https://pytorch.org/get-started/locally/` <br />
-`https://varhowto.com/install-pytorch-cuda-10-0/`  <br />
-  
-  2.Clone the repo <br />
-`git clone https://github.com/ColmKeyes/Automated-Vegetation-Mapping-using-Unsupervised-Image-Segmentation-and-Gaussian-Mixture-model.git` <br />
- 
 
 
 
