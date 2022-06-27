@@ -1,6 +1,6 @@
 
 <!-- PROJECT LOGO -->
-  <h3 align="center">Gaussian-Mixture-Model</h3>
+  <h1 align="center">Gaussian-Mixture-Model</h1>
 
 <br />
 
