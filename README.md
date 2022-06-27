@@ -13,7 +13,7 @@
   </a>
 
 
-  ![](Tiger_Segmentation_Example.gif)
+  ![](output-image minlabels 25 compactness 32 LR 0.1 nConv 4 nIter 9 time-1655965541.4695218.tif)
 
 
 
