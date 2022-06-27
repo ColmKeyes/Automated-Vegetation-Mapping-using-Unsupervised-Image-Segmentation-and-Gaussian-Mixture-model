@@ -31,10 +31,10 @@ Combinatin of deep learning and machine learning methods aimed at clustering uns
 
 <div align="center">
   <a href="https://www.wur.nl/en/research-results/chair-groups/environmental-sciences/laboratory-of-geo-information-science-and-remote-sensing.htm">
-    <img src="Logos/WUR.png" alt="WUR" width="200" height="45">
+    <img src="UISB/Logos/WUR.png" alt="WUR" width="200" height="45">
   </a>
    <a href="https://www.ecogoggle.nl/">
-    <img src="Logos/Ecogoggle.png" alt="Ecogoggle" width="200" height="60">
+    <img src="UISB/Logos/Ecogoggle.png" alt="Ecogoggle" width="200" height="60">
   </a>
 
 
