@@ -35,27 +35,14 @@
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-This script can be initiated from Terminal using
+This script can be initiated from any online notebook editor, such as jupyter lab or google colab.
+From within the script, each segment can be run individually to inspect outputs. Required input files can be found in the Feature spaces folder. These .tiff files are supplied for model analysis. 
 
-`python UISB.py --minLabels 10 --compactness 0.1 --lr 0.1 --nConv 2 --input images/108004.jpg`
-
-Or by running the script directly in python using and changing the parameters under the Inits section.
 
 <!-- Future Work -->
 ## Future Work
 
-- [ ] Consistent Seed
-- [ ] consistent Colourmap usage
-- [ ] move preprocessing to within script
-- [ ] Loss function
-    - [ ] Investigate other torch loss functions
-    - [ ] Create custom loss function for given problem
-- [ ] Validation
-    - [ ] Implement GT validation in script
-    - [ ] Automate Validation
-- [ ] Metrics
-    - [ ] Add Entropy evaluation to script
-    - [ ] Add chi evaluation to script
+
   
 <!-- LICENSE -->
 ## License
@@ -67,13 +54,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-[Colm Keyes](https://www.linkedin.com/in/colm-keyes-4960a5132/) - keyesco@tcd.ie
-
   
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
-Acknowledgments go out to the original creator of this network, [Asako Kanezak](https://github.com/kanezaki), AIST, Tokyo,
-who's informative paper can be found here: https://ieeexplore.ieee.org/document/8462533
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
