@@ -1,6 +1,6 @@
-# Automated-Vegetation-Mapping-using-Unsupervised-Image-Segmentation-and-Gaussian-Mixture-Model
+# Gaussian-Mixture-Model
 
-Combinatin of deep learning and machine learning methods aimed at clustering unseen image data. Used for detailing ground vegetation in a quick and affective manner. 
+
 <div id="top"></div>
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
