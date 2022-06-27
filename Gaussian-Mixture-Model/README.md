@@ -18,12 +18,9 @@
 ## About The Project
 
    <a href="">
-    <img src="ML_example.png" alt="" width="450" height="360">
+    <img src="cluster_map5.png" alt="" width="450" height="360">
   </a>
   
-  <a href="">
-    <img src="ML_example_hue.png" alt="" width="400" height="360">
-  </a>
 <div>
 <div align="left">  
  <br />
