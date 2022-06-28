@@ -37,25 +37,9 @@ Our subject study area is a nature conservation area in the south of the Nethere
 </div align="left"> 
 
 
-### Prerequisites
-
-
-    
-* [Python 3.x](https://pytorch.org/)
-  
   
 <div>
   
-### Installation
-
-
-  
-  1.Install Python 3.x
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
 
 <!-- Future Work -->
 ## Future Work
@@ -78,6 +62,10 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
   
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
+
+Luc Dael
+Zillah Calle
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
