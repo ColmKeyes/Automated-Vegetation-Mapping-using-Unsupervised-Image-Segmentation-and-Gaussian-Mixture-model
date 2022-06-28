@@ -81,14 +81,16 @@ CNN for unsupervised image segmentation. For unsupervised methods, a series of l
 
 This script can be initiated from Terminal using
 
-Or by running the script directly in python using and changing the parameters under the Inits section.
-
-UISB is run using the following command:
+UISB  can be initiated from Terminal using the following command:
 ```python UISB.py [--nChannel] [--maxIter] [--minLabels] [--lr] [-nConv] [--num_superpixels] [--visualize] [--compactness] [--input]```
 
 for example, 
 
 `python UISB.py --minLabels 10 --compactness 0.1 --lr 0.1 --nConv 2 --input images/108004.jpg`
+
+
+Or by running the script directly in python using and changing the parameters under the Inits section.
+
 
 The meaning of each argument is detailed below:
 * ``-N``, ``--nChannel``: This is the number of filters that we would like the network to learn. 
