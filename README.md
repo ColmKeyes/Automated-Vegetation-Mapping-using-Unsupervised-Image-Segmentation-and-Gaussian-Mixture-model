@@ -59,6 +59,8 @@ Our subject study area is a nature conservation area in the south of the Nethere
 
 <!-- Future Work -->
 ## Future Work
+- test the models for different areas with different land uses and vegetation such as forests or beach areas.
+- test more different kinds of models such as regular K-means.
 
   
 <!-- LICENSE -->
