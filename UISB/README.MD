@@ -110,7 +110,7 @@ The meaning of each argument is detailed below:
 - [ ] move preprocessing to within script
 - [ ] Loss function
     - [ ] Investigate other torch loss functions
-    - [ ] Create custom loss function for given problem
+    - [ ] Create custom loss function for the given problem
 - [ ] Validation
     - [ ] Implement GT validation in script
     - [ ] Automate Validation
