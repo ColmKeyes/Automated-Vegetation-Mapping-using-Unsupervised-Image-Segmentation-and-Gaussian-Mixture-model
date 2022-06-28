@@ -63,8 +63,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Luc Dael
-Zillah Calle
+Luc Dael,
+Zillah Calle,
+Leendert Borgers
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
