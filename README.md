@@ -16,7 +16,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
   <a href="">
-    <img src="orthoHRmasked.tiff" alt="" width="400" height="360">
+    <img src="orthoHRmasked_jpg.jpg" alt="" width="400" height="360">
   </a>
    <a href="">
     <img src="output_sample.png" alt="" width="400" height="360">
